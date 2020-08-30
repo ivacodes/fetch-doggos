@@ -117,3 +117,13 @@ button:hover {
     transform: scale(1.15) rotate(0);
   }
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: right;
+  padding-right: 10px;
+  font-size: 0.8em;
+}
